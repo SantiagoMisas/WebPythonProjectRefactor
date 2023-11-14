@@ -1,0 +1,26 @@
+# Ignore modules folder
+modules/
+
+# Ignore virtual environment folder
+env/
+
+# Ignore all pycache folders
+**/__pycache__/
+
+# Ignore pyc files
+*.pyc
+
+# Ignore local config
+.env
+
+# Ignore IDE folders
+.idea/
+.vscode/
+
+# Ignore notebooks 
+*.ipynb
+
+# Ignore logs
+*.log
+
+environment/
